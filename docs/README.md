@@ -4,12 +4,17 @@
 ## Overview
 
 ## Intended Users
-##First milestone checklist
+
+[user stories](docs/user-stories.md) 
+
+
+## First milestone checklist
 * [ ] Description
-* [ ] Intended Users
+* [X] Intended Users & User Stories
 * [ ] Entity Relationship Diagrams
 * [ ] Wireframes
-* [ ] User Stories
+
+
 
 
 
