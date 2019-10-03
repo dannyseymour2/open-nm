@@ -6,7 +6,7 @@
 ## Intended Users
 
 ###[User Stories](docs/user-stories.md)  
-###[Entity Relationship Diagram](erd.md)     
+###[Entity Relationship Diagram](erd.png)     
 ###[Wireframe](wireframe.md)
 
 ## First milestone checklist
